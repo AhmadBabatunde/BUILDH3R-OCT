@@ -1,7 +1,7 @@
-##Zero Knowledge Use Case 1
+## Zero Knowledge Use Case 1
 I am from Lagos, Nigeria, where homosexuality is criminalized, making it extremely difficult for individuals who are not heterosexual to express themselves openly. Women and men who identify as LGBTQ+ face significant challenges in finding safe spaces to connect with like-minded individuals. My use case is to create a **zero-knowledge** platform where women who are homosexuals can interact with others without necessarily revealing their personal information.
 
 Recently, I spoke with a woman who shared her experience of the struggles she faces as a lesbian in Nigeria. She explained how isolating it can be, as there are limited spaces where she can truly be herself without fear of judgment or legal repercussions. She emphasized how important it is to have a platform where she can connect with others who understand her situation, without the fear of being exposed or facing persecution.
 
-##Zero Knowledge Use Case 2
+## Zero Knowledge Use Case 2
 Another use case would be utilizing **zero-knowledge** technology for job applications, ensuring that employers cannot be biased by preferring men over women. This would allow candidates to be evaluated based solely on their qualifications and skills, without their gender influencing the hiring decision
